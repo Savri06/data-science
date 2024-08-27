@@ -1,0 +1,6 @@
+model:legion 5 pro
+ram:4GB
+graphics:RTX 3060
+storage:1tb SSd
+brand:lenovo
+os:windows 11
